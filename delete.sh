@@ -1,0 +1,1 @@
+aws cloudformation delete-stack --stack-name teamcity --region ap-southeast-2
